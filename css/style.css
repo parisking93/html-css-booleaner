@@ -18,13 +18,17 @@ header .logo{
 .colore{
     color: #0BA0E1;
 }
-.titolo .data{
+.font80x{
     font-size: 80%;
 }
 .fontgrey{
     color: grey;
 }
 /* fine section titolo  */
-
+/* section containerfoto */
+.containerfoto{
+    margin: 10px;
+}
+/* fine section containerfoto */
 
 
