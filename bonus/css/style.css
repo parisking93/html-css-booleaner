@@ -18,6 +18,10 @@
     color: white;
 }
 /* fine style font  */
+main{
+    width: 75%;
+    margin: auto;
+}
 
 /* inizio header  */
 header{
@@ -39,7 +43,7 @@ header .logo{
 /* fine section titolo  */
 /* section containerfoto */
 .containerfoto{
-    margin: 10px;
+    margin: 0;
 }
 /* fine section containerfoto */
 
