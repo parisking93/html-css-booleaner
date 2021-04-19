@@ -4,13 +4,27 @@ header{
     background-size: contain;
     background-color: #3F8BFF;
 }
-.logo{
+header .logo{
     width: 30%;
     margin: 10px;
     
 }
 /* fine header  */
-
+/* main  */
+/* section titolo  */
+.titolo .testata{
+    margin-bottom: 0px;
+}
+.colore{
+    color: #0BA0E1;
+}
+.titolo .data{
+    font-size: 80%;
+}
+.fontgrey{
+    color: grey;
+}
+/* fine section titolo  */
 
 
 
