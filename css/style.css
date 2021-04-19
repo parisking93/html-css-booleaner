@@ -1,3 +1,21 @@
+/* style font  */
+.colore{
+    color: #0BA0E1;
+}
+.font80x{
+    font-size: 80%;
+}
+.fontgrey{
+    color: grey;
+}
+.evidenziatore{
+    background-color: yellow;
+}
+.align-sinistra{
+    text-align: left;
+}
+/* fine style font  */
+
 /* inizio header  */
 header{
     background-image: url('../img/pattern.png');
@@ -15,15 +33,6 @@ header .logo{
 .titolo .testata{
     margin-bottom: 0px;
 }
-.colore{
-    color: #0BA0E1;
-}
-.font80x{
-    font-size: 80%;
-}
-.fontgrey{
-    color: grey;
-}
 /* fine section titolo  */
 /* section containerfoto */
 .containerfoto{
@@ -31,4 +40,26 @@ header .logo{
 }
 /* fine section containerfoto */
 
+/* tabella */
+table {
+    border-collapse: collapse;
+}
+.colonna1{
+    width: 20vw; 
+}
+.colonna2{
+    width: 20vw;
+    text-align: center;
+}
+.colonna3{
+    width: 40vw;
+}
+.riga-celeste {
+    background-color: #A5DEEE;
+}
+thead{
+    background-color: #2097DF;
+    color: white;
+}
+/* fine tabella  */
 
