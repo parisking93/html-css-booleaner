@@ -1,7 +1,7 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
-/* style font  */
+/* style font e margini */
 
 .colore{
     color: #0BA0E1;
@@ -21,7 +21,10 @@
 .font-white{
     color: white;
 }
-/* fine style font  */
+.margin-bottom2{
+    margin-bottom: 2vh;
+}
+/* fine stylee margini font  */
 main{
     width: 75%;
     margin: auto;
@@ -43,7 +46,7 @@ header .whitebackg{
 /* main  */
 /* section titolo  */
 .titolo .testata{
-    margin-bottom: 0px;
+    font-size: 200%;
 }
 /* fine section titolo  */
 /* section containerfoto */
@@ -51,7 +54,6 @@ header .whitebackg{
     margin: 0;
 }
 /* fine section containerfoto */
-
 /* lista sotto le foto  */
 li{
     list-style: none;
@@ -88,7 +90,6 @@ thead{
     width: 200px;
     height: 200px;
     background-size: contain;
-    margin-bottom: 10px;
 }
 .foto-data{
     background-image:url('../img/graph.jpg');
