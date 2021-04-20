@@ -1,8 +1,9 @@
-
-/* style font  */
 *{
     font-family: 'Roboto', sans-serif;
+
 }
+/* style font  */
+
 .colore{
     color: #0BA0E1;
 }
@@ -26,7 +27,6 @@ main{
     width: 75%;
     margin: auto;
 }
-
 /* inizio header  */
 header{
     background-image: url('../img/pattern.png');
@@ -36,7 +36,9 @@ header{
 header .logo{
     width: 30%;
     margin: 10px;
-    
+}
+header .whitebackg{
+    background-color: rgba(255, 255, 255, 0.1);
 }
 /* fine header  */
 /* main  */
@@ -54,6 +56,8 @@ header .logo{
 /* tabella */
 table {
     border-collapse: collapse;
+    margin: 5vh;
+    margin-left: 0;
 }
 .colonna1{
     width: 20vw; 
@@ -64,6 +68,7 @@ table {
 }
 .colonna3{
     width: 40vw;
+    padding: 5px;
 }
 .riga-celeste {
     background-color: #A5DEEE;
