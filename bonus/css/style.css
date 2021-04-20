@@ -25,6 +25,9 @@
     margin-bottom: 2vh;
 }
 /* fine stylee margini font  */
+body{
+    margin: 0px;
+}
 main{
     width: 75%;
     margin: auto;
