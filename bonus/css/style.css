@@ -1,6 +1,5 @@
 *{
     font-family: 'Roboto', sans-serif;
-
 }
 /* style font  */
 
@@ -53,6 +52,12 @@ header .whitebackg{
 }
 /* fine section containerfoto */
 
+/* lista sotto le foto  */
+li{
+    list-style: none;
+    margin-bottom: 1vh;
+}
+/* fine lista sotto le foto  */
 /* tabella */
 table {
     border-collapse: collapse;
